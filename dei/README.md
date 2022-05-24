@@ -16,3 +16,5 @@ Diversity, Equity, and Inclusion committee
 ## Ecology and Evolution organizations around the world
 
 [This list](/dei/ecoevo_org/ecoevo_org.csv) contains a list of Ecology and Evolution societies and organizations around the world. Their contact information, description, geographical scope and other details are included.
+
+Please notice this list is a work in progress.
